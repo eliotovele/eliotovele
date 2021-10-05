@@ -2,7 +2,7 @@
 
 <h2>I'm Elio Tovele! <img src="https://raw.githubusercontent.com/eliotovele/eliotovele/master/gifs/think.gif" width="30px"></h2>
 
-I'm Front-End Developer at [@Objective](https://github.com/objective-solutions). <br>
+I'm Front-End Developer at [@objective-solutions](https://github.com/objective-solutions). <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elio%20Tovele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliotovele/)](ttps://www.linkedin.com/in/eliotovele/) [![Gmail Badge](https://img.shields.io/badge/-eliotovele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliotovele@gmail.com)](mailto:eliotovele@gmail.com)  [![Rocketseat Badge](https://img.shields.io/badge/-Elio%20Tovele-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/elio-tovele-1567305975/)](https://app.rocketseat.com.br/me/elio-tovele-1567305975/)
 
