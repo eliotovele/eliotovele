@@ -1,25 +1,28 @@
-<h1>Hey! <img src="https://raw.githubusercontent.com/eliotovele/eliotovele/master/gifs/Hi.gif" width="30px"></h1>
+<h2> Welcome 👋 , I'm Elio Tovele.</h2>
 
-<h2>I'm Elio Tovele! <img src="https://raw.githubusercontent.com/eliotovele/eliotovele/master/gifs/think.gif" width="30px"></h2>
+I'm a software developer based in Maputo, Mozambique, specializing in building websites and web applications, and everything in between.
 
-I'm Front-End Developer at [@objective-solutions](https://github.com/objective-solutions). <br>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Elio%20Tovele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliotovele/)](ttps://www.linkedin.com/in/eliotovele/) [![Gmail Badge](https://img.shields.io/badge/-eliotovele@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliotovele@gmail.com)](mailto:eliotovele@gmail.com)  [![Rocketseat Badge](https://img.shields.io/badge/-Elio%20Tovele-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/elio-tovele-1567305975/)](https://app.rocketseat.com.br/me/elio-tovele-1567305975/)
+- 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+- 🛢 &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" title="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" title="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<br/>
 
-I'm passionate about JavaScript, TypeScript and everything that involves these technologies.
+<!-- <a href="https://github.com/jrgarciadev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgarciadev&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+</a> -->
 
-My main skill is using React as well it's ecossytems, i have experience NodeJs, as well as Loving these technologies too!
-
-I'm always climbing the mountain to the next level
-
-
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=eliotovele&count_private=true&show_icons=true&theme=dracula" />
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotovele&count_private=true&langs_count=8&layout=compact&theme=dracula&hide=html,tsql,css,plpgsql" />
-</div>
