@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Elio Tovele.</h2>
 
-I'm a software developer based in Maputo, Mozambique, specializing in building websites and web applications, and everything in between.
+I'm a software developer based in Maputo, Mozambique, specializing in web applications,mobile apps, and everything in between.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
